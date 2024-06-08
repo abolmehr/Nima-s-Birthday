@@ -1,0 +1,37 @@
+h1,
+h2 {
+  direction: rtl;
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(13, 12, 12);
+  font-family: "a";
+  font-weight: 900;
+}
+img {
+  width: 80%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20%;
+  max-width: fit-content;
+  height: auto;
+  border: 3px solid black;
+}
+#a {
+  background-color: burlywood;
+  padding-top: 10%;
+  padding-bottom: 3%;
+  border-radius: 2.5%;
+  margin: 0.5%;
+  border: 3px solid rgb(0, 0, 0);
+}
+hr {
+  border-color: rgb(0, 0, 0);
+}
+body {
+  background-color: seashell;
+}
+@font-face {
+  font-family: "a";
+  src: url(./IRFerdosi.ttf);
+}
